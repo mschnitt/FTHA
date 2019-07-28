@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>1.5</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <Controls>true</Controls>
+            <GalleryName>Fort Tejon</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>ISO-8859-1</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageHeight>302</ImageHeight>
+            <ImageQuality>59</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WowSlider.app/Contents/Resources/templates/backgnd/block/</ImageTemplate>
+            <ImageTemplateName>Block</ImageTemplateName>
+            <ImageWidth>809</ImageWidth>
+            <Images>true</Images>
+            <PublishFileName>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Index.html</PublishFileName>
+            <PublishIndex>Index.html</PublishIndex>
+            <PublishPath>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>32</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>Block</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>90</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>241</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+        </Settings>
+        <Images>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_2.jpg</url>
+                <title>slide_2</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_1.jpg</url>
+                <title>slide_1</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_3.jpg</url>
+                <title>slide_3</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_4.jpg</url>
+                <title>slide_4</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_5.jpg</url>
+                <title>slide_5</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_6.jpg</url>
+                <title>slide_6</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_7.jpg</url>
+                <title>slide_7</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_8.jpg</url>
+                <title>slide_8</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_9.jpg</url>
+                <title>slide_9</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_10.jpg</url>
+                <title>slide_10</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_11.jpg</url>
+                <title>slide_11</title>
+            </Image>
+            <Image>
+                <url>/Users/jimjimmy/Desktop/Fort Tejon Web Site NEW/fort_tejon/Slide Show/slide_12.jpg</url>
+                <title>slide_12</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

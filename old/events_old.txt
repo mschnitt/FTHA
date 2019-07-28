@@ -1,0 +1,604 @@
+<html>  
+<head>
+<title>Fort Tejon Historical Association</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-color: #333333;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">
+	a#vlb{display:none}    a:link {
+	color: #daa635;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #daa635;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+a:active {
+	text-decoration: none;
+	color: #daa635;
+}
+    .style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #daa635;
+	font-size: 14px;
+	font-weight: bold;
+}
+    .style5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+    .style6 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 16px; color: #FFFFFF; }
+    .style6a {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 16px; color: #FFF000; }
+    .style7 {font-size: 14px}
+    .style8 {color: #FF0000}
+    .style9 {font-size: 12px; color: #FFF000; font-style: italic}
+    .styleA {font-size: 14px; color: #FFFFFF; font-weight: bold}
+    </style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/donateroll.jpg')">
+<table width="942" height="955" border="0" align="center" cellpadding="0" cellspacing="0" background="images/Back_black.png" bgcolor="#000000">
+  <tr bgcolor="#000000">
+    <td align="center" valign="top"><table width="373" height="176" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" valign="top"><img src="images/header.jpg" alt="" width="972" height="209"></td>
+      </tr>
+    </table>
+      <table width="979" height="1056" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="167" height="1056" align="center" valign="top"><table width="100" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="100" align="center" valign="top"><span class="style4"><a href="Index.html">FTHA
+                    HOME</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="join.html">Join
+                    FTHA </a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="officers.html">Officers</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="whats_new.html">What's
+                    New</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><img src="images/line2.png" width="98" height="6"></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4">PROGRAMS</span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="civil_war.html">Civil
+                    War</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="dragoons.html">Dragoons</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><div align="center"><a href="cali_civil_war.html"><span class="style4">California's
+                      Civil War</span></a></div></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><div align="center"><span class="style4"><a href="student_history.html">Student
+                      Living History</a></span></div></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><img src="images/line2.png" width="98" height="6"></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="events.html">Events</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="history.html">History</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style4"><a href="pricing.html">Pricing</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><div align="center"><span class="style4"><a href="maps.html">Map &amp; Directions</a></span></div></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><span class="style4"><a href="mailto:lindabosley66@gmail.com">tejon@forttejon.com</a></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+          </table></td>
+          <td width="812" align="center" valign="top" background="images/adobe_1.jpg"><table width="654" border="0" cellpadding="0" cellspacing="0" background="images/Background4.png">
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><span class="style5">Consolidated Southern California</span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" class="style5">Living History Calander
+                2015</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">3 January</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">17 January</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">New Volunteer Training -
+<span class="style6a">
+	Live Scan</span>
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+      <td>&nbsp;</td>
+</tr>
+
+<tr>
+     <td align="left" valign="middle"><table width="654" 
+     border="2" cellpadding="0" cellspacing="0" 
+     background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">7 Feb</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">2nd Califorina Living History Program -
+<span class="style6a">
+	Saturday only</span>
+</span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">21 - 22 Feb</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Volunteer Training / Work Days
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+     <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">7 March</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">7 March</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">SLHP Parent/Teacher Training 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+      <td>&nbsp;</td>
+</tr>
+
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">4 April</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">2 May</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">2 May</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">SLHP Parent/Teacher Training 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+             
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="styleA">May 29 - 31</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">FTHA Civil War Re-enactment - INVITATIONAL
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>           
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">6 June</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program
+	<span class="style9">Focus: Native Americans & the Army 
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">20 June</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Lady's Victorian Tea - FTHA Fundraiser 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+      <td>&nbsp;</td>
+</tr>
+
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">4 July</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Old Fashioned
+	<a href="pdf_files/4thJulyFLYR.pdf"><span class="style6a">
+	4th of July</span></a>
+     <span class="style7"></span></a></span></td>
+
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">11-12 July</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Old Fort MacArthur Days (off site event) 
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+ <tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">1 August</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">15-16 August</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Civil War Living History Demonstrations 
+(no battles)
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">22-23 August</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Volunteer Work Days 
+     <span class="style7"></span></a></span></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">5 September</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+	<span class="style9">
+</span>
+     <span class="style7"></span></a></span></td>
+</tr>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">&nbsp;
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">3 October</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">17 October</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Death of Peter Lebeck Candlelight Ghost Tours - <span class="style9"FTHA fundraiser</span>
+ FTHA fundraiser</br>
+     <a href="pdf_files/GhostTour2015.pdf" class="style6"> event flyer</a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+      <td>&nbsp;</td>
+</tr>
+
+<tr>
+    <td><table width="654" border="2" cellpadding="0" 
+    cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">7 November</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Frontier Army Days / Dragoon LH Program   
+     <span class="style7"></span></a></span></td>
+</tr>
+
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">&nbsp; 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td align="left" valign="middle">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+<tr>
+     <td><table width="654" border="2" cellpadding="0" 
+     cellspacing="0" background="images/Background4.png">
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">5 December</td>
+     <td width="530" align="left" valign="middle" 
+     class="style6">Frontier Army Days / Dragoon LH Program 
+     <span class="style7"></span></a></td>
+<tr>
+     <td width="116" align="left" valign="middle" 
+     class="style6">5 December </td>
+     <td width="530" align="left" valign="middle"><span 
+     class="style6">Volunteer Recognition & Christmas Party 
+     <span class="style7"></span></a></span></td>
+</tr>
+
+     <td width="116" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+     <td width="530" align="left" valign="middle" 
+     class="style6">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+      <td>&nbsp;</td>
+</tr>
+            <tr>
+              <td><table width="654" border="2" cellpadding="0" cellspacing="0" background="images/Background4.png">
+                                                <tr>
+                  <td width="116" align="left" valign="middle" class="style6">&nbsp;</td>
+                  <td align="left" valign="middle" class="style6">&nbsp;</td>
+                </tr>
+              </table></td>
+            </tr>
+          </table>
+            <table width="200" height="53" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- ImageReady Slices (FTHA Web layout.psd) -->
+<!-- End ImageReady Slices -->
+</body>
+</html>
