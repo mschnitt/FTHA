@@ -1,8 +1,29 @@
 body {
 	background-color: #333333;
 }
-.style2 {font-family: Arial, Helvetica, sans-serif}
-.style5 {font-size: 36px; font-weight: bold; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; }
+.style2 {
+	font-family: Arial, Helvetica, sans-serif}
+.style3 {
+	font-size: 12px; 
+	color: #FFFFFF; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #daa635;
+	font-size: 14px;
+	font-weight: bold;
+}
+.style5 {
+	font-size: 36px; 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-weight: bold; 
+	color: #FFFFFF; 
+}
+.style5-old {
+	font-size: 16px;
+	font-weight: bold;
+}
 .style6 {
 	font-size: 18pt;
 	font-family: Arial, Helvetica, sans-serif;
@@ -26,6 +47,14 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	color: #daa635;
+}
+.style7 {
+	font-size: 24px; 
+	font-family: Arial, Helvetica, sans-serif; font-weight: 
+	bold; color: #FFFFFF; 
+}
+.style8 {
+	font-family: Arial, Helvetica, sans-serif
 }
 .styleFS {
      	font-size: 18pt;
@@ -95,22 +124,25 @@ body {
 .table_style {
 	font-size: 12pt;
 	font-family: Arial, Helvetica, sans-serif;
-	color: #FFFFFF;
+	color: #daa635;
 	text-align: center;
 	background-color: black;
 }
+
+
 a:link {
-	text-decoration: none;
-	color: daa635;
+  color: #daa635;
+  text-decoration: none;
 }
 a:visited {
-	text-decoration: none;
+  text-decoration: none;
+  color: #daa635;
 }
 a:hover {
-	text-decoration: underline;
-	color: #FFFFFF;
+  text-decoration: underline;
+  color: #FFFFFF;
 }
 a:active {
-	text-decoration: none;
+  text-decoration: none;
+  color: #daa635;
 }
-
