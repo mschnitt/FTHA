@@ -20,4 +20,4 @@ clean:
 #    IdentityFile ~/.ssh/cpanel_rsa  
 #    User  ra364u2qj4xg
 #
-#
+#Also can try PubkeyAcceptedKeyTypes=+ssh-dss in the rsync
